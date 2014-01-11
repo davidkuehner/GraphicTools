@@ -14,8 +14,7 @@
         }
     ],
     "require": {
-        "php"				 : ">=5.5.*",
-        "davidkuhner/regex   : "dev-master"
+        "davidkuhner/regex"  : "dev-master"
     },
     "minimum-stability": "dev"
 }
