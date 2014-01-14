@@ -1,5 +1,6 @@
 {
     "name"       : "davidkuhner/graphictools",
+    "bin"        : ["bin/hoathis"],
     "description": "The Hoathis\\GraphicTools library.",
     "type"       : "library",
     "license"    : "BSD-3-Clause",
