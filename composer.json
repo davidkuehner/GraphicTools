@@ -22,7 +22,5 @@
             "GraphicTools": "src"
         }
     },
-    "target-dir" : "hoathis/graphictools",
-    "autoload"   : { "psr-0": { "hoathis\\graphictools": "." } },
-    "bin" : ["bin/hoathis"]
+    "autoload"         : { "psr-0": { "davidkuhner\\graphictools": "." } }
 }
