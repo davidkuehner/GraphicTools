@@ -1,6 +1,5 @@
 {
     "name"       : "davidkuhner/graphictools",
-    "bin"        : ["bin/hoathis"],
     "description": "The Hoathis\\GraphicTools library.",
     "type"       : "library",
     "license"    : "BSD-3-Clause",
@@ -17,5 +16,11 @@
     "require": {
         "davidkuhner/regex"  : "dev-master"
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-0": {
+            "GraphicTools": "src"
+        }
+    },
+    "bin" : ["bin/davidkuhner"],
 }
