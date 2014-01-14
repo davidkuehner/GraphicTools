@@ -22,5 +22,6 @@
             "GraphicTools": "src"
         }
     },
-    "bin" : ["bin/davidkuhner"]
+    "target-dir" : "hoathis/graphictools",
+    "bin" : ["bin/hoathis"]
 }
