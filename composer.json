@@ -23,5 +23,6 @@
         }
     },
     "target-dir" : "hoathis/graphictools",
+    "autoload"   : { "psr-0": { "hoathis\\graphictools": "." } }
     "bin" : ["bin/hoathis"]
 }
