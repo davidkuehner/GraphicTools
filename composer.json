@@ -22,5 +22,5 @@
             "GraphicTools": "src"
         }
     },
-    "bin" : ["bin/davidkuhner"],
+    "bin" : ["bin/davidkuhner"]
 }
