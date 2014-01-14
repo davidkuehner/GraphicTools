@@ -17,10 +17,5 @@
         "davidkuhner/regex"  : "dev-master"
     },
     "minimum-stability": "dev",
-    "autoload": {
-        "psr-0": {
-            "GraphicTools": "src"
-        }
-    },
     "autoload"         : { "psr-0": { "davidkuhner\\graphictools": "." } }
 }
