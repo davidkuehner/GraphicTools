@@ -17,5 +17,6 @@
         "davidkuhner/regex"  : "dev-master"
     },
     "minimum-stability": "dev",
+    "target-dir"       : "Hoathis/GraphicTools",
     "autoload"         : { "psr-0": { "Hoathis\\GraphicTools": "." } }
 }
